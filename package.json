@@ -1,0 +1,13 @@
+{
+  "name": "mina-bio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mina Bio landing page with WhatsApp ordering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
